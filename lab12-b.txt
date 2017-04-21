@@ -1,0 +1,8 @@
+total 28
+drwx------. 3 Bob   Bob   4096 Feb 16 13:16 Bob
+drwx------. 3 Sally Sally 4096 Feb 16 13:20 Sally
+drwxr-xr-x. 3 root  root  4096 Feb 16 12:46 share
+drwx------. 3 Ted   Ted   4096 Feb 16 13:21 Ted
+-rw-r--r--. 1 root  root   276 Feb 16 15:51 test2.txt
+-rw-r--r--. 1 root  root   241 Feb 16 16:14 test.txt
+-rw-r--r--. 1 root  root    22 Feb 16 15:36 text2.txt

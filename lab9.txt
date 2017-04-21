@@ -1,0 +1,30 @@
+# file: var/reports
+# owner: root
+# group: root
+user::---
+user:Bob:r--
+user:Sally:rw-
+group::r-x
+mask::rwx
+other::---
+default:user::---
+default:user:Sally:rw-
+default:group::r-x
+default:mask::rwx
+default:other::---
+
+# file: var/reports/December
+# owner: root
+# group: root
+user::---
+user:Ted:rw-
+user:Sally:rw-
+group::r-x
+mask::rwx
+other::---
+default:user::---
+default:user:Sally:rw-
+default:group::r-x
+default:mask::rwx
+default:other::---
+

@@ -1,0 +1,1000 @@
+   49  ls
+   50  ls -l
+   51  cd /
+   52  ls
+   53  ls -l
+   54  cd bin
+   55  ls -l
+   56  ps
+   57  yes
+   58  clear
+   59  whatis yes
+   60  ls
+   61  what zless
+   62  whatis zless
+   63  whatis montage
+   64  cd ..
+   65  ls
+   66  cd boot
+   67  ls
+   68  ls -l
+   69  cd grub
+   70  ls
+   71  cd ..
+   72  ls -lh
+   73  whatis df
+   74  whatis lost+found
+   75  cd ..
+   76  cd /dev
+   77  ls
+   78  cd ..
+   79  ls
+   80  file zero
+   81  cd /dev
+   82  file zero
+   83  zero
+   84  whatis zero
+   85  whatis hugepages
+   86  cd hugepages
+   87  ls
+   88  ls -l
+   89  cd ..
+   90  ls
+   91  whatis random
+   92  file random
+   93  random
+   94  less random
+   95  leff -f random
+   96  less log
+   97  ls -l
+   98  cd ..
+   99  ls
+  100  cd etc
+  101  ls -l
+  102  cd yum
+  103  ls
+  104  ls -l
+  105  cd ..
+  106  ls
+  107  cat centos-release
+  108  cat services
+  109  less services
+  110  cat service
+  111  cat services
+  112  whatis services
+  113  file services
+  114  clear
+  115  ls
+  116  more services
+  117  cat services
+  118  less services
+  119  tac sevices
+  120  tac yum.conf
+  121  cat yum.conf
+  122  cat --help
+  123  cat -n yum.conf
+  124  tac -n yum.conf
+  125  tac --help
+  126  tac -s yum.conf
+  127  clear
+  128  man cat
+  129  man man
+  130  cd /
+  131  ls
+  132  cd home
+  133  ls
+  134  ls -l
+  135  useradd Becky
+  136  ls
+  137  cd Becky
+  138  ls
+  139  ls -l
+  140  passwd
+  141  passwd Becky
+  142  del Becky
+  143  deluser
+  144  touch test.txt
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd ..
+  149  cd lib
+  150  ls
+  151  ls -l /Becky
+  152  ls -l /home/Becky
+  153  ls -l /home
+  154  clear
+  155  ls
+  156  cd /home
+  157  userdel -r Becky
+  158  ls
+  159  clear
+  160  cd /lib
+  161  cd ..
+  162  cd lost+found/
+  163  ls
+  164  ls -l
+  165  cd ..
+  166  ls /lib/
+  167  ls /mnt/
+  168  ls -l /mtn
+  169  ls -l /mnt
+  170  cd run
+  171  ls
+  172  ls -l
+  173  cd /prog
+  174  cd /proc
+  175  ls
+  176  ls -lh
+  177  cat version
+  178  cat meminfo
+  179  cat partitions
+  180  ls
+  181  cat cpuinfo
+  182  cd 43
+  183  ls
+  184  ps
+  185  cd ..
+  186  cd 18479
+  187  ls
+  188  file personality
+  189  file exe
+  190  file attr
+  191  cd ..
+  192  ls
+  193  cd/
+  194  cd /
+  195  ls
+  196  cd root
+  197  ls
+  198  ls -lh
+  199  cd run
+  200  cd /run
+  201  ls
+  202  cd /sbin
+  203  ls
+  204  file zic
+  205  cd ..
+  206  ls
+  207  cd srv
+  208  ls
+  209  ls -lh
+  210  cd salt
+  211  ls
+  212  cd sys
+  213  cd /sys
+  214  ls
+  215  cd /tmp
+  216  ls
+  217  ls -l
+  218  cd /var
+  219  ls
+  220  cd /
+  221  ls
+  222  aprops floppy
+  223  apropos floppy
+  224  apropos server
+  225  clear
+  226  mkdir ~/dir1
+  227  cd ~
+  228  ls
+  229  mkdir dir11
+  230  ls
+  231  rmdir dir11
+  232  ls
+  233  rm -i dir1
+  234  rmdir -i dir1
+  235  clear
+  236  ls
+  237  touch file1 file2
+  238  ls
+  239  rm -i file1
+  240  rm -v file2
+  241  touch file1.c
+  242  ls
+  243  rm -v file1.c
+  244  ln ~/dir1 ~/file.c
+  245  ln -s ~/dir1 ~/file.c
+  246  ls
+  247  ls -l
+  248  rm file.c
+  249  ls
+  250  cd dir1
+  251  ls
+  252  ls -l
+  253  touch ~/file
+  254  ls
+  255  cd ..
+  256  ls
+  257  touch file2 file3
+  258  ls
+  259  ln ~/dir1 file file2
+  260  ln -s ~/dir1 file file2
+  261  ln -s ~/dir1 file 
+  262  ls
+  263  cd dir1
+  264  ls
+  265  ln -s ~/ file2
+  266  ls
+  267  cd ..
+  268  ls
+  269  ls -l
+  270  ls -li
+  271  cd dir1
+  272  ls -li
+  273  cd /
+  274  ls
+  275  cd home
+  276  ls
+  277  cd /root
+  278  ls
+  279  ln -s file2 file2
+  280  ln -s file4 file2
+  281  ln -s file2 file4
+  282  ls
+  283  ls -l
+  284  ls -li
+  285  ls -ll
+  286  cd dir1
+  287  ls
+  288  ls -li
+  289  cd /root/
+  290  rm ~/dir1/file2
+  291  ls
+  292  ls -l
+  293  cd dir1
+  294  ls
+  295  link youtube.com
+  296  link google.com
+  297  link --help
+  298  links youtube.com
+  299  clear
+  300  links google.com
+  301  cd /
+  302  cd ~
+  303  ls
+  304  cd /
+  305  ls
+  306  cd root
+  307  cd /home
+  308  cd ~
+  309  clear
+  310  cd dir1
+  311  pwd
+  312  cd ..
+  313  mkdir test
+  314  ls
+  315  cd test
+  316  mkdir testdir
+  317  ls -l
+  318  touch file11
+  319  ls
+  320  ls -l
+  321  touch testdir
+  322  ls -l
+  323  touch testdir
+  324  ls -l
+  325  file testdir
+  326  test file11
+  327  file file11
+  328  cp file11 testdir
+  329  cd testdir
+  330  ls
+  331  ln file11 ~/dir
+  332  ls
+  333  cd ~/dir
+  334  cd ..
+  335  ls
+  336  cd ..
+  337  ls
+  338  ls -l
+  339  ls -li
+  340  cd ~/test/testdir
+  341  ls
+  342  ls -li
+  343  ln dir ~/
+  344  ln dir dir
+  345  clear
+  346  ls
+  347  mv ~/dir ~/test/testdir
+  348  ls
+  349  ls -li
+  350  ln -s file11 file111
+  351  ls
+  352  ls -li
+  353  ln file111 file1111
+  354  ls -li
+  355  alias
+  356  ll
+  357  l.
+  358  alias lli='ls -li'
+  359  alias
+  360  lli 
+  361  lli /src
+  362  lli /usr
+  363  cd /test
+  364  cd ~/test
+  365  cp file1 file2
+  366  touch file1
+  367  cp file1 file2
+  368  ls
+  369  ll
+  370  lli
+  371  cp file1 /testdir
+  372  lli testdir
+  373  lli
+  374  cp file1 testdir
+  375  lli testdir
+  376  cp file testdir/file2
+  377  cp file1 testdir/file2
+  378  lli testdir
+  379  mv file1 testdir
+  380  lli
+  381  mv file2 file3
+  382  ll
+  383  lli
+  384  mv file11 file4
+  385  lli
+  386  mv file4 file2
+  387  lli
+  388  touch file1
+  389  mv -f file1 file2
+  390  lli
+  391  touch file1
+  392  mv file1 file2
+  393  rm file2
+  394  touch file2
+  395  rm -f file2
+  396  ls
+  397  touch file2
+  398  ls
+  399  rm file2
+  400  rm testdir
+  401  rmdir testdir
+  402  mkdir notempty
+  403  mkedir notempty/empty
+  404  mkdir notempty/empty
+  405  cd notempty
+  406  ls
+  407  cd ..
+  408  rmdir notempty
+  409  rmdir -f notempty
+  410  rmdir -r notempty
+  411  clear
+  412  rmdir -r notempty
+  413  rmdir --help
+  414  rm -r notempty
+  415  ls
+  416  mkdir notempty/empty
+  417  mkdir test/notempty/empty
+  418  mkdir /test/notempty/empty
+  419  mkdir ~/test/notempty/empty
+  420  mkdir notempty
+  421  mkdir notempty/empty
+  422  rmdir -p notempty
+  423  rmdir -p notempty/empty
+  424  ls
+  425  rm file1 file3
+  426  touch file1 file2
+  427  ls
+  428  touch filea1 filea2
+  429  ls
+  430  ls *2
+  431  touch file2a2
+  432  LS *2
+  433  ls *2
+  434  ls file?2
+  435  file??2
+  436  ls file??2
+  437  ls [0-9]
+  438  ls file[0-9]
+  439  ls file*[0-9]
+  440  ls file[[:digit:]]
+  441  touch FILE1 FILE2
+  442  ls [[:UPPER:]]
+  443  ls [[:digit:]]
+  444  ls f[[:digit:]]
+  445  clear
+  446  ls
+  447  ln -s file1 link1
+  448  ls
+  449  llli
+  450  lli
+  451  rm file1
+  452  lli
+  453  rm -rf filea*
+  454  lli
+  455  touch file1
+  456  lli
+  457  rm -r testdir
+  458  lli
+  459  mkdir linkdir
+  460  ln linkdir file1
+  461  cd linkdir
+  462  ln -s linkdir file1
+  463  ls
+  464  ln -s file1 linkdir
+  465  ls
+  466  cd ..
+  467  ls
+  468  lli
+  469  lli linkdir
+  470  touch file1 linkdir /root/test/linkdir
+  471  lli
+  472  lli linkdir
+  473  cd /root/test/linkdir
+  474  pwd
+  475  ls
+  476  touch file1
+  477  rm file1
+  478  rm -f linkdir
+  479  ls
+  480  cd ..
+  481  clear
+  482  cd /
+  483  mkdir /root/labs/lab1
+  484  cd ~
+  485  pwd
+  486  mkdir labs
+  487  mkdir labs/lab1
+  488  cd lab1
+  489  cd labs/lab1
+  490  pwd
+  491  mkdir world USA France Thailand India
+  492  ls
+  493  mv France world
+  494  ls
+  495  mv India world
+  496  mv Thailand world
+  497  mv USA world
+  498  ls
+  499  ls world
+  500  cd USA
+  501  cd /USA
+  502  cd /lab1/USA
+  503  ls
+  504  cd world
+  505  cd USA
+  506  mkdir WA CA NY
+  507  ls
+  508  touch Seattle LosAngeles NYC
+  509  ls
+  510  mv LosAngeles CA
+  511  ls
+  512  mv NYC NY
+  513  ls
+  514  mv Seattle WA
+  515  cd CA
+  516  ls
+  517  ls NY
+  518  cd ..
+  519  ls NY WA
+  520  cd ..
+  521  ls
+  522  touch Paris Lyon Phuket Bangkok Mumbai Delhi
+  523  ls
+  524  mv Mumbai,Delhi India
+  525  mv Mumbai India
+  526  mv Delhi India
+  527  mv Bangkok Thailand/
+  528  mv Phuket Thailand/
+  529  mv Lyon Paris 
+  530  mv Lyon France
+  531  mv Paris France/
+  532  ls
+  533  ls *
+  534  tree > /root/labs/lab1.txt
+  535  cd ..
+  536  ls
+  537  cd ..
+  538  ls
+  539  file lab1.txt
+  540  less lab1.txt
+  541  ls
+  542  cd lab1
+  543  ls
+  544  ls *
+  545  tree
+  546  tree > /root/labs/lab1.txt
+  547  less /root/labs/lab1.txt
+  548  cd /
+  549  tree > /root/labs/lab1.txt
+  550  ls
+  551  less /root/labs/lab1.txt
+  552  less lab1.txt
+  553  cd /root/labs/lab1
+  554  ls
+  555  cd ..
+  556  ls
+  557  less lab1.txt
+  558  cd lab1
+  559  ls
+  560  tree > /root/labs/lab1.txt
+  561  less *.txt
+  562  ls
+  563  cd ..
+  564  ls
+  565  less *.txt
+  566  cd lab1
+  567  ls
+  568  tree > /root/labs/lab1.txt
+  569  cd ..
+  570  ls
+  571  less *.txt
+  572  cd ..
+  573  ls
+  574  rm -r dir1 file file2 file3 file4 test
+  575  ls
+  576  cd labs
+  577  ls
+  578  lli
+  579  mkdir lab2
+  580  ls
+  581  lli
+  582  cd ..
+  583    tar -xzvpf /var/share/CS125/lab2.tar.gz  -C /root/labs 
+  584  ls
+  585  cd ~/labs/lab2
+  586  ls
+  587  mkdir TEXT
+  588  mv text* TEXT
+  589  ls
+  590  mv *.txt TEXT
+  591  ls
+  592  mkdir JPG
+  593  mkdir SH
+  594  mv *.jpg JPG
+  595  mv *.sh SH
+  596  ls
+  597  mv *-0 emptyfiles-0
+  598  mv m*-0 emptyfiles-0
+  599  ls
+  600  cd emptyfiles-0
+  601  ls
+  602  mv lab2 photos-0
+  603  mv photos-0 labs2
+  604  ls
+  605  pwd
+  606  cd ..
+  607  ls
+  608  whereis photos-o
+  609  whereis photos-0
+  610  cd mediafile-0
+  611  ls
+  612  cd emptyfiles-0
+  613  ls
+  614  cd labs2
+  615  ls
+  616  cd ..
+  617  rm labs2
+  618  rm -r labs2
+  619  ls
+  620  mv scripts-0 labs2
+  621  ls
+  622  cd labs2
+  623  ls
+  624  lli
+  625  cd ..
+  626  cd..
+  627  cd ..
+  628  ls
+  629  clear
+  630  ls
+  631  lli
+  632  cd emptyfiles-0
+  633  ls
+  634  cd labs2
+  635  ls
+  636  cd ..
+  637  rm -r labs2
+  638  ls
+  639  mv mediafile-0 /root/labs/lab2
+  640  ls
+  641  cd ..
+  642  ls
+  643  cd JPG
+  644  ls
+  645  cd /lab2/TEXT
+  646  cd /root/labs/lab2/TEXT
+  647  ls
+  648  mv mediafile-[10-19] textfiles-10
+  649  ls
+  650  mv textfiles-10 mediafile-[10-19]
+  651  ls
+  652  cd mediafile-\[10-19\]/
+  653  ls
+  654  lli
+  655  cd ..
+  656  ls
+  657  mv mediafile-[10-19] textfiles-10
+  658  ls
+  659  mv mediafile-[10-19].txt textfiles-10
+  660  ls
+  661  cd textfiles-10
+  662  ls
+  663  cd labs
+  664  ls
+  665  file lab1.txt
+  666  less lab1
+  667  less lab1.txt
+  668  cd lab2
+  669  ls
+  670  cd JPG
+  671  ls
+  672  cd ..
+  673  cd scripts-10
+  674  ls
+  675  cd ..
+  676  cd SH
+  677  ls
+  678  cd ..
+  679  cd TEXT
+  680  ls
+  681  mv textfile-0 mediafile-[0-9].txt
+  682  ls
+  683  mv mediafile-[0-9].txt textfiles-0
+  684  ls
+  685  mv mediafile-[10-19].txt textfiles-10
+  686  cd textfiles-0
+  687  ls
+  688  mv mediafile-[010-019].txt textfiles-10
+  689  mv mediafile-[10-19].txt textfiles-10
+  690  mv mediafile-[19-10].txt textfiles-10
+  691  mv mediafile-[11-19].txt textfiles-10
+  692  mv mediafile-10.txt textfiles-10
+  693  mv mediafile-[10-19].txt textfiles-10
+  694  cd ..
+  695  ls
+  696  mv mediafile-[10-19].txt textfiles-10
+  697  clear
+  698  ls
+  699  mv mediafile-[10-19].txt textfiles-10[B
+  700  cd ..
+  701  ls
+  702  cd emptyfiles-0
+  703  ls
+  704  cd ..
+  705  cd SH
+  706  ls
+  707  mv *.sh ../lab2
+  708  pwd
+  709  mv *.sh /root/labs/lab2
+  710  ls
+  711  cd ..
+  712  ls
+  713  mv mediafile-10.sh scripts-10
+  714  ls
+  715  mv mediafile-[20-29].sh scripts-20
+  716  ls
+  717  cd scripts-20
+  718  ls
+  719  pwd
+  720  mv mediafile-0.sh /root/labs/lab2
+  721  ls
+  722  cd ..
+  723  ls
+  724  mv mediafile[-20-29].sh scripts-20
+  725  cd TEXT
+  726  clear
+  727  ls
+  728  mv mediafile-1[0-9].txt textfiles-10
+  729  ls
+  730  mv mediafile-2[0-9].txt textfiles-20
+  731  ls
+  732  mv mediafile-3[0-9].txt textfiles-30
+  733  mv mediafile-4[0-9].txt textfiles-40
+  734  mv mediafile-5[0-9].txt textfiles-50
+  735  mv mediafile-6[0-9].txt textfiles-60
+  736  mv mediafile-7[0-9].txt textfiles-70
+  737  mv mediafile-8[0-9].txt textfiles-80
+  738  mv mediafile-9[0-9].txt textfiles-90
+  739  ls
+  740  cd textfiles-0
+  741  ls
+  742  cd ..
+  743  pwd
+  744  tree /root/labs/lab2/TEXT text.txt
+  745  cd textfiles-10
+  746  ls
+  747  pwd
+  748  mv mediafile-1.txt mediafile-9.txt /root/labs/lab2/TEXT
+  749  ls
+  750  cd ..
+  751  ls
+  752  mv mediafile-1.txt mediafile-9.txt textfiles-0
+  753  ls
+  754  pwd
+  755  tree /root/labs/lab2/TEXT
+  756  pwd
+  757  mv /root/labs/lab2/TEXT/* /root/labs/lab2
+  758  ls
+  759  cd ..
+  760  ls
+  761  cd TEXT
+  762  ls
+  763  cd ..
+  764  rm TEXT
+  765  rm -r TEXT
+  766  ls
+  767  cd SH
+  768  ls
+  769  ls -li
+  770  cd ..
+  771  rm SH
+  772  rm -r SH
+  773  ls
+  774  mv mediafile-0.sh scripts-10
+  775  ls
+  776  mv mediafile-1[0-9].sh scripts-20
+  777  ls
+  778  cd scripts-20
+  779  ls
+  780  mv mediafile-15.sh /root/labs/lab2
+  781  ls
+  782  cd ..
+  783  ls
+  784  mv mediafile-15.sh scripts-10
+  785  ls
+  786  mv mediafile-2[0-9].sh scripts-20
+  787  ls
+  788  mv mediafile-3[0-9].sh scripts-30
+  789  mv mediafile-4[0-9].sh scripts-40
+  790  mv mediafile-5[0-9].sh scripts-50
+  791  ls
+  792  mv mediafile-[0-9].sh scripts-10
+  793  ls
+  794  mv mediafile-[0-9] emptyfiles-0
+  795  mv mediafile-1[0-9] emptyfiles-10
+  796  mv mediafile-2[0-9] emptyfiles-20
+  797  mv mediafile-3[0-9] emptyfiles-30
+  798  mv mediafile-4[0-9] emptyfiles-40
+  799  mv mediafile-5[0-9] emptyfiles-50
+  800  mv mediafile-6[0-9] emptyfiles-60
+  801  mv mediafile-7[0-9] emptyfiles-70
+  802  mv mediafile-8[0-9] emptyfiles-80
+  803  mv mediafile-9[0-9] emptyfiles-90
+  804  ls
+  805  mv /root/labs/lab2/JPG/* /root/labs/lab2
+  806  ls
+  807  mv mediafile-[0-9].jpg photos-10
+  808  ls
+  809  mv mediafile-1[0-9].jpg photos-20
+  810  cd photos-20
+  811  ls
+  812  mv mediafile-10.jpg /root/labs/lab2
+  813  cd ..
+  814  ls
+  815  mv mediafile-1[0-9].jpg photos-10
+  816  mv mediafile-2[0-9].jpg photos-20
+  817  mv mediafile-3[0-9].jpg photos-30
+  818  mv mediafile-4[0-9].jpg photos-40
+  819  mv mediafile-5[0-9].jpg photos-50
+  820  mv mediafile-6[0-9].jpg photos-60
+  821  mv mediafile-7[0-9].jpg photos-70
+  822  ls
+  823  mv mediafile-80.jpg photos-80
+  824  mv mediafile-90.jpg photos-90
+  825  mv mediafile-100.jpg photos-100
+  826  ls
+  827  cd JPG
+  828  ls
+  829  cd ..
+  830  rmdir JPG
+  831  ls
+  832  tree /root/lab/lab2
+  833  cd ..
+  834  tree /root/lab/lab2
+  835  trees /root/lab/lab2
+  836  clear
+  837  tree /root/lab/lab2
+  838  tree /root/lab/
+  839  tree /root/lab
+  840  tree man
+  841  man tree
+  842  tree /root
+  843  ls
+  844  cd lab2
+  845  mkdir lab2_2
+  846  cd lab2_2
+  847   tar -xzvpf /var/share/CS125/lab2.tar.gz  -C /root/labs/llabs2_2 
+  848   tar -xzvpf /var/share/CS125/lab2.tar.gz  -C /root/labs/labs2_2 
+  849   tar -xzvpf /var/share/CS125/lab2.tar.gz  -C /root/labs/labs2/labs2_2 
+  850   tar -xzvpf /var/share/CS125/lab2.tar.gz  -C /root/labs/lab2/lab2_2 
+  851  ls
+  852  cd lab2
+  853  ls
+  854  cd..
+  855  cd ..
+  856  ls
+  857  mkdir photos-0
+  858  mkdir scripts-0
+  859  tree
+  860  lab2
+  861  cd lab2
+  862  ls
+  863  cd lab2_2
+  864  ls
+  865  lab2
+  866  cd lab2
+  867  ls
+  868  mv mediafile-[0-9].txt textfiles-0
+  869  mv mediafile-1[0-9].txt textfiles-10
+  870  mv mediafile-2[0-9].txt textfiles-20
+  871  mv mediafile-3[0-9].txt textfiles-30
+  872  mv mediafile-4[0-9].txt textfiles-40
+  873  mv mediafile-5[0-9].txt textfiles-50
+  874  mv mediafile-6[0-9].txt textfiles-60
+  875  mv mediafile-7[0-9].txt textfiles-70
+  876  mv mediafile-8[0-9].txt textfiles-80
+  877  mv mediafile-9[0-9].txt textfiles-90
+  878  ls
+  879  mv mediafile-[0-9] emptyfiles-0
+  880  mv mediafile-1[0-9] emptyfiles-10
+  881  mv mediafile-2[0-9] emptyfiles-20
+  882  mv mediafile-3[0-9] emptyfiles-30
+  883  mv mediafile-4[0-9] emptyfiles-40
+  884  mv mediafile-5[0-9] emptyfiles-50
+  885  mv mediafile-6[0-9] emptyfiles-60
+  886  mv mediafile-7[0-9] emptyfiles-70
+  887  mv mediafile-8[0-9] emptyfiles-80
+  888  mv mediafile-9[0-9] emptyfiles-90
+  889  ls
+  890  mv mediafile-0.jpg photos-0
+  891  mv mediafile-10.jpg photos-10
+  892  mv mediafile-20.jpg photos-20
+  893  mv mediafile-30.jpg photos-30
+  894  mv mediafile-40.jpg photos-40
+  895  mv mediafile-50.jpg photos-50
+  896  mv mediafile-60.jpg photos-60
+  897  mv mediafile-60.jpg photos-70
+  898  mv mediafile-70.jpg photos-70
+  899  mv mediafile-80.jpg photos-80
+  900  mv mediafile-90.jpg photos-90
+  901  mv mediafile-100.jpg photos-100
+  902  ls
+  903  mv mediafile-[0-9].sh scripts-0
+  904  mv mediafile-1[0-9].sh scripts-10
+  905  mv mediafile-2[0-9].sh scripts-20
+  906  mv mediafile-3[0-9].sh scripts-30
+  907  mv mediafile-4[0-9].sh scripts-40
+  908  mv mediafile-5[0-9].sh scripts-50
+  909  ls
+  910  tree
+  911  cd ..
+  912  pwd
+  913  ls
+  914  lab2
+  915  cd lab2
+  916  ls
+  917  pwd
+  918  mv /root/labs/lab2/lab2_2/lab2 /root/labs
+  919  mv /root/labs/lab2/lab2_2/lab2 /root/labs/lab2
+  920  ls
+  921  tree
+  922  cd ..
+  923  ls
+  924  cd ..
+  925  ls
+  926  cd lab2
+  927  tree
+  928  cd lab2_2
+  929  ls
+  930  cd ..
+  931  rmdir lab2_2
+  932  ls
+  933  cd lab2
+  934  ls
+  935  trees lab2
+  936  pwd
+  937  tree /root/labs/lab2/lab2
+  938  tree /root/labs/lab2/
+  939  cd ..
+  940  ls
+  941  cd ..
+  942  ls
+  943  mkdir lab3
+  944  mv /root/labs/lab2/lab2 /root/labs/lab3
+  945  cd lab2
+  946  ls
+  947  rm /root/labs/lab2
+  948  rm -r /root/labs/lab2
+  949  rm -Rf /root/labs/lab2
+  950  ls
+  951  cd ..
+  952  ls
+  953  lab3
+  954  cd lab3
+  955  ls
+  956  cd lab2
+  957  ls
+  958  tree
+  959  cd ..
+  960   tar -xzvpf /var/share/CS125/lab2.tar.gz  -C /root/labs 
+  961  ls
+  962  tree /root/labs/lab2
+  963  tree /root/labs/lab3/lab2
+  964  ls
+  965  rm -rf lab2
+  966  ls
+  967  mkdir lab2
+  968  ls
+  969  mv /root/labs/lab3/lab2/* /root/labs/lab2
+  970  cd lab2
+  971  cd lab3
+  972  cd ..
+  973  cd lab3
+  974  ls
+  975  cd lab2
+  976  ls
+  977  cd ..
+  978  cd lab2
+  979  ls
+  980  pwd
+  981  tree /root/labs/lab2
+  982  cd ..
+  983  ls
+  984  rm -rf lab3
+  985  ls
+  986  tree >/root/labs/lab2.txt
+  987  ls
+  988  less lab2.txt
+  989  ls
+  990  rm lab2.txt
+  991  ls
+  992  cd lab2
+  993  ls
+  994  tree >/root/labs/lab2.txt
+  995  ls
+  996  cd ..
+  997  ls
+  998  less lab2.txt
+  999  more lab2.txt
+ 1000  ls
+ 1001  ls -l /etc > test.txt
+ 1002  ls
+ 1003  less test
+ 1004  less test.tst
+ 1005  less test.txt
+ 1006  date
+ 1007  du
+ 1008  whatis du
+ 1009  whatis other
+ 1010  whatis wc
+ 1011  du /lab
+ 1012  ls
+ 1013  du ~
+ 1014  wc ~
+ 1015  whatis wc
+ 1016  wc labs
+ 1017  wc test.txt
+ 1018  whatis cut
+ 1019  whatis awk
+ 1020  date
+ 1021  du /etc
+ 1022  ls -l /etc
+ 1023  echo "The number of files and directories in /etc on $(date) is..."
+ 1024  whatis awk
+ 1025  man awk
+ 1026  awk help
+ 1027  help awk
+ 1028  info awk
+ 1029  whatis cut
+ 1030  help cut
+ 1031  cut help
+ 1032  cut --help
+ 1033  cut -c test.txt 
+ 1034  cut --characters=test.txt 
+ 1035  info find
+ 1036  whatis find
+ 1037  clear
+ 1038  cut -d" " -f1 test.txt 
+ 1039  awk '{print $1}' test.txt
+ 1040  history
+ 1041  cat test.txt
+ 1042  awk '/systemd{print $1}' test.txt
+ 1043  awk '/systemd/{print $1}' test.txt
+ 1044  awk '/systemd/{print $01}' test.txt
+ 1045  awk '/systemd/{print $0}' test.txt
+ 1046  awk '/systemd/{print $2}' test.txt
+ 1047  awk '/systemd/{print $8}' test.txt
+ 1048  history > history.txt

@@ -1,0 +1,85 @@
+  --- Logical volume ---
+  LV Path                /dev/VolGroup00/LogVol01
+  LV Name                LogVol01
+  VG Name                VolGroup00
+  LV UUID                Q1k5K7-gaDi-vcZv-owrM-shMa-fX1g-HgMYd8
+  LV Write Access        read/write
+  LV Creation host, time localhost, 2015-09-09 08:38:48 -0700
+  LV Status              available
+  # open                 2
+  LV Size                512.00 MiB
+  Current LE             128
+  Segments               1
+  Allocation             inherit
+  Read ahead sectors     auto
+  - currently set to     8192
+  Block device           253:0
+   
+  --- Logical volume ---
+  LV Path                /dev/VolGroup00/LogVol00
+  LV Name                LogVol00
+  VG Name                VolGroup00
+  LV UUID                wLFXwG-bDy3-WeuF-lTOA-Xj6m-89Es-acnSdb
+  LV Write Access        read/write
+  LV Creation host, time localhost, 2015-09-09 08:38:48 -0700
+  LV Status              available
+  # open                 1
+  LV Size                7.26 GiB
+  Current LE             1859
+  Segments               1
+  Allocation             inherit
+  Read ahead sectors     auto
+  - currently set to     8192
+  Block device           253:1
+   
+  --- Logical volume ---
+  LV Path                /dev/pseudoserver/backup
+  LV Name                backup
+  VG Name                pseudoserver
+  LV UUID                7l6BL0-ivH3-mMew-e7ye-iSm0-1AI2-ogo7U5
+  LV Write Access        read/write
+  LV Creation host, time 991198670.acs.edcc.edu, 2016-03-03 13:17:09 -0800
+  LV Status              available
+  # open                 1
+  LV Size                20.00 MiB
+  Current LE             5
+  Segments               1
+  Allocation             inherit
+  Read ahead sectors     auto
+  - currently set to     8192
+  Block device           253:4
+   
+  --- Logical volume ---
+  LV Path                /dev/pseudoserver/share
+  LV Name                share
+  VG Name                pseudoserver
+  LV UUID                cQNskV-rPf4-2RGX-jBXL-MpF8-h0oc-TQtJ7H
+  LV Write Access        read/write
+  LV Creation host, time 991198670.acs.edcc.edu, 2016-03-03 13:59:36 -0800
+  LV Status              available
+  # open                 1
+  LV Size                76.00 MiB
+  Current LE             19
+  Segments               2
+  Allocation             inherit
+  Read ahead sectors     auto
+  - currently set to     256
+  Block device           253:3
+   
+  --- Logical volume ---
+  LV Path                /dev/vgtest/lvtest
+  LV Name                lvtest
+  VG Name                vgtest
+  LV UUID                x5yTjc-NjMg-mdJI-vhaU-3F3c-FnCw-YuqLBi
+  LV Write Access        read/write
+  LV Creation host, time 991198670.acs.edcc.edu, 2016-03-01 15:44:17 -0800
+  LV Status              available
+  # open                 0
+  LV Size                52.00 MiB
+  Current LE             13
+  Segments               1
+  Allocation             inherit
+  Read ahead sectors     auto
+  - currently set to     8192
+  Block device           253:2
+   

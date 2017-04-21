@@ -1,0 +1,63 @@
+  --- Volume group ---
+  VG Name               VolGroup00
+  System ID             
+  Format                lvm2
+  Metadata Areas        1
+  Metadata Sequence No  3
+  VG Access             read/write
+  VG Status             resizable
+  MAX LV                0
+  Cur LV                2
+  Open LV               2
+  Max PV                0
+  Cur PV                1
+  Act PV                1
+  VG Size               7.80 GiB
+  PE Size               4.00 MiB
+  Total PE              1997
+  Alloc PE / Size       1987 / 7.76 GiB
+  Free  PE / Size       10 / 40.00 MiB
+  VG UUID               RsjRVt-VfND-P22r-fONV-EcDa-339G-Nx0AXI
+   
+  --- Volume group ---
+  VG Name               pseudoserver
+  System ID             
+  Format                lvm2
+  Metadata Areas        1
+  Metadata Sequence No  12
+  VG Access             read/write
+  VG Status             resizable
+  MAX LV                0
+  Cur LV                2
+  Open LV               2
+  Max PV                0
+  Cur PV                1
+  Act PV                1
+  VG Size               96.00 MiB
+  PE Size               4.00 MiB
+  Total PE              24
+  Alloc PE / Size       24 / 96.00 MiB
+  Free  PE / Size       0 / 0   
+  VG UUID               nOoC6l-47LE-CcR4-H7mC-0ldl-OXva-cPHreE
+   
+  --- Volume group ---
+  VG Name               vgtest
+  System ID             
+  Format                lvm2
+  Metadata Areas        1
+  Metadata Sequence No  2
+  VG Access             read/write
+  VG Status             resizable
+  MAX LV                0
+  Cur LV                1
+  Open LV               0
+  Max PV                0
+  Cur PV                1
+  Act PV                1
+  VG Size               96.00 MiB
+  PE Size               4.00 MiB
+  Total PE              24
+  Alloc PE / Size       13 / 52.00 MiB
+  Free  PE / Size       11 / 44.00 MiB
+  VG UUID               oWevDw-UJav-sXXg-KvCq-BK7p-4EUL-mUZHso
+   

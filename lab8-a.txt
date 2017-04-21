@@ -1,0 +1,20 @@
+# file: home/share/Public
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: home/share/Public/Wikipages
+# owner: root
+# group: root
+user::rw-
+user:Bob:rwx
+user:Ted:rwx
+user:Sally:rwx
+group::r--
+group:apache:rwx
+group:editors:rwx
+mask::rwx
+other::---
+

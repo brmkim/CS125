@@ -1,0 +1,437 @@
+/home:
+total 28
+drwxrwsr-x. 2 root  JoeJulie 4096 Feb  4 17:01 accounting
+drwx------. 9 Brian Brian    4096 Feb  4 16:43 Brian
+drwx------. 9 Joe   Joe      4096 Feb  4 16:28 Joe
+drwx------. 9 Julie Julie    4096 Feb  4 16:22 Julie
+drwsrwS---. 2 root  BrianJoe 4096 Feb  4 17:18 marketing
+drwxr-xr-t. 2 root  root     4096 Feb  4 17:19 public
+drwxr-xr-x. 6 root  root     4096 Feb  4 16:23 share
+
+/home/accounting:
+total 0
+
+/home/Brian:
+total 52
+-rw-------. 1 Brian Brian   28 Feb  4 16:07 .bash_history
+-rw-r--r--. 1 Brian Brian   18 Mar  5  2015 .bash_logout
+-rw-r--r--. 1 Brian Brian  193 Mar  5  2015 .bash_profile
+-rw-r--r--. 1 Brian Brian  231 Mar  5  2015 .bashrc
+drwx------. 5 Brian Brian 4096 Feb  4 16:06 .cache
+drwxrwxr-x. 9 Brian Brian 4096 Feb  4 16:07 .config
+drwxr-xr-x. 2 Brian Brian 4096 Feb  4 16:28 Desktop
+-rw-------. 1 Brian Brian  942 Feb  4 16:43 .ICEauthority
+drwx------. 3 Brian Brian 4096 Feb  4 16:06 .local
+drwxr-xr-x. 4 Brian Brian 4096 Sep  9 14:00 .mozilla
+drwx------. 2 Brian Brian 4096 Feb  4 16:06 .ssh
+drwxrwxr-x. 3 Brian Brian 4096 Feb  4 16:43 .x2go
+-rw-------. 1 Brian Brian  354 Feb  4 16:43 .Xauthority
+
+/home/Brian/.cache:
+total 16
+drwxrwxr-x. 2 Brian Brian 4096 Feb  4 16:06 abrt
+drwxrwxr-x. 3 Brian Brian 4096 Feb  4 16:06 ibus
+drwx------. 2 Brian Brian 4096 Feb  4 16:06 imsettings
+-rw-rw-r--. 1 Brian Brian   57 Feb  4 16:06 xfce4-notifyd-theme.rc
+
+/home/Brian/.cache/abrt:
+total 4
+-rw-rw-r--. 1 Brian Brian 141 Feb  4 16:13 applet_dirlist
+
+/home/Brian/.cache/ibus:
+total 4
+drwxrwxr-x. 2 Brian Brian 4096 Feb  4 16:06 bus
+
+/home/Brian/.cache/ibus/bus:
+total 104
+-rw-r--r--. 1 Brian Brian 106488 Feb  4 16:06 registry
+
+/home/Brian/.cache/imsettings:
+total 12
+-rw-rw-r--. 1 Brian Brian 9448 Feb  4 16:43 log
+
+/home/Brian/.config:
+total 28
+drwxrwxr-x. 2 Brian Brian 4096 Feb  4 16:06 abrt
+drwxr-xr-x. 3 Brian Brian 4096 Feb  4 16:43 caja
+drwxrwxr-x. 2 Brian Brian 4096 Feb  4 16:43 dconf
+drwx------. 3 Brian Brian 4096 Feb  4 16:06 ibus
+drwxr-xr-x. 2 Brian Brian 4096 Feb  4 16:06 imsettings
+drwxr-xr-x. 3 Brian Brian 4096 Feb  4 16:07 mate-session
+drwxrwxr-x. 3 Brian Brian 4096 Feb  4 16:06 xfce4
+
+/home/Brian/.config/abrt:
+total 0
+
+/home/Brian/.config/caja:
+total 20
+-rw-r--r--. 1 Brian Brian 8754 Feb  4 16:07 accels
+-rw-rw-r--. 1 Brian Brian  404 Feb  4 16:43 desktop-metadata
+drwxr-xr-x. 2 Brian Brian 4096 Feb  4 16:06 scripts
+
+/home/Brian/.config/caja/scripts:
+total 0
+
+/home/Brian/.config/dconf:
+total 8
+-rw-rw-r--. 1 Brian Brian 7035 Feb  4 16:43 user
+
+/home/Brian/.config/ibus:
+total 4
+drwx------. 2 Brian Brian 4096 Feb  4 16:43 bus
+
+/home/Brian/.config/ibus/bus:
+total 12
+-rw-rw-r--. 1 Brian Brian 169 Feb  4 16:06 452c80a64e604e3ab82261a0f8a88049-unix-54
+-rw-rw-r--. 1 Brian Brian 169 Feb  4 16:13 452c80a64e604e3ab82261a0f8a88049-unix-57
+-rw-rw-r--. 1 Brian Brian 169 Feb  4 16:43 452c80a64e604e3ab82261a0f8a88049-unix-58
+
+/home/Brian/.config/imsettings:
+total 0
+
+/home/Brian/.config/mate-session:
+total 4
+drwxr-xr-x. 2 Brian Brian 4096 Feb  4 16:07 saved-session
+
+/home/Brian/.config/mate-session/saved-session:
+total 0
+
+/home/Brian/.config/xfce4:
+total 4
+drwxrwxr-x. 3 Brian Brian 4096 Feb  4 16:06 xfconf
+
+/home/Brian/.config/xfce4/xfconf:
+total 4
+drwx------. 2 Brian Brian 4096 Feb  4 16:06 xfce-perchannel-xml
+
+/home/Brian/.config/xfce4/xfconf/xfce-perchannel-xml:
+total 0
+
+/home/Brian/Desktop:
+total 0
+lrwxrwxrwx. 1 Brian Brian 17 Feb  4 16:28 Brian -> /home/share/Brian
+
+/home/Brian/.local:
+total 4
+drwx------. 4 Brian Brian 4096 Feb  4 16:43 share
+
+/home/Brian/.local/share:
+total 12
+-rw-rw-r--. 1 Brian Brian    0 Feb  4 16:06 .converted-launchers
+drwx------. 2 Brian Brian 4096 Feb  4 16:43 gvfs-metadata
+drwx------. 2 Brian Brian 4096 Feb  4 16:06 keyrings
+-rw-------. 1 Brian Brian  218 Feb  4 16:08 recently-used.xbel
+
+/home/Brian/.local/share/gvfs-metadata:
+total 36
+-rw-------. 1 Brian Brian   144 Feb  4 16:43 home
+-rw-rw-r--. 1 Brian Brian 32768 Feb  4 16:43 home-2fa6e062.log
+
+/home/Brian/.local/share/keyrings:
+total 0
+
+/home/Brian/.mozilla:
+total 8
+drwxr-xr-x. 2 Brian Brian 4096 Jun  9  2014 extensions
+drwxr-xr-x. 2 Brian Brian 4096 Jun  9  2014 plugins
+
+/home/Brian/.mozilla/extensions:
+total 0
+
+/home/Brian/.mozilla/plugins:
+total 0
+
+/home/Brian/.ssh:
+total 0
+
+/home/Brian/.x2go:
+total 4
+drwxrwxr-x. 2 Brian Brian 4096 Feb  4 16:43 ssh
+
+/home/Brian/.x2go/ssh:
+total 0
+
+/home/Joe:
+total 52
+-rw-------. 1 Joe Joe   15 Feb  4 16:04 .bash_history
+-rw-r--r--. 1 Joe Joe   18 Mar  5  2015 .bash_logout
+-rw-r--r--. 1 Joe Joe  193 Mar  5  2015 .bash_profile
+-rw-r--r--. 1 Joe Joe  231 Mar  5  2015 .bashrc
+drwx------. 5 Joe Joe 4096 Feb  4 16:09 .cache
+drwxrwxr-x. 8 Joe Joe 4096 Feb  4 16:09 .config
+drwxr-xr-x. 2 Joe Joe 4096 Feb  4 16:29 Desktop
+-rw-------. 1 Joe Joe  314 Feb  4 16:09 .ICEauthority
+drwx------. 3 Joe Joe 4096 Feb  4 16:09 .local
+drwxr-xr-x. 4 Joe Joe 4096 Sep  9 14:00 .mozilla
+drwx------. 2 Joe Joe 4096 Feb  4 16:09 .ssh
+drwxrwxr-x. 3 Joe Joe 4096 Feb  4 16:09 .x2go
+-rw-------. 1 Joe Joe  118 Feb  4 16:09 .Xauthority
+
+/home/Joe/.cache:
+total 16
+drwxrwxr-x. 2 Joe Joe 4096 Feb  4 16:09 abrt
+drwxrwxr-x. 3 Joe Joe 4096 Feb  4 16:09 ibus
+drwx------. 2 Joe Joe 4096 Feb  4 16:09 imsettings
+-rw-rw-r--. 1 Joe Joe   57 Feb  4 16:09 xfce4-notifyd-theme.rc
+
+/home/Joe/.cache/abrt:
+total 4
+-rw-rw-r--. 1 Joe Joe 141 Feb  4 16:09 applet_dirlist
+
+/home/Joe/.cache/ibus:
+total 4
+drwxrwxr-x. 2 Joe Joe 4096 Feb  4 16:09 bus
+
+/home/Joe/.cache/ibus/bus:
+total 104
+-rw-r--r--. 1 Joe Joe 106488 Feb  4 16:09 registry
+
+/home/Joe/.cache/imsettings:
+total 8
+-rw-rw-r--. 1 Joe Joe 4564 Feb  4 16:09 log
+
+/home/Joe/.config:
+total 24
+drwxrwxr-x. 2 Joe Joe 4096 Feb  4 16:09 abrt
+drwxr-xr-x. 3 Joe Joe 4096 Feb  4 16:09 caja
+drwxrwxr-x. 2 Joe Joe 4096 Feb  4 16:09 dconf
+drwx------. 3 Joe Joe 4096 Feb  4 16:09 ibus
+drwxr-xr-x. 2 Joe Joe 4096 Feb  4 16:09 imsettings
+drwxrwxr-x. 3 Joe Joe 4096 Feb  4 16:09 xfce4
+
+/home/Joe/.config/abrt:
+total 0
+
+/home/Joe/.config/caja:
+total 8
+-rw-rw-r--. 1 Joe Joe  353 Feb  4 16:09 desktop-metadata
+drwxr-xr-x. 2 Joe Joe 4096 Feb  4 16:09 scripts
+
+/home/Joe/.config/caja/scripts:
+total 0
+
+/home/Joe/.config/dconf:
+total 8
+-rw-rw-r--. 1 Joe Joe 6360 Feb  4 16:09 user
+
+/home/Joe/.config/ibus:
+total 4
+drwx------. 2 Joe Joe 4096 Feb  4 16:09 bus
+
+/home/Joe/.config/ibus/bus:
+total 4
+-rw-rw-r--. 1 Joe Joe 169 Feb  4 16:09 452c80a64e604e3ab82261a0f8a88049-unix-55
+
+/home/Joe/.config/imsettings:
+total 0
+
+/home/Joe/.config/xfce4:
+total 4
+drwxrwxr-x. 3 Joe Joe 4096 Feb  4 16:09 xfconf
+
+/home/Joe/.config/xfce4/xfconf:
+total 4
+drwx------. 2 Joe Joe 4096 Feb  4 16:09 xfce-perchannel-xml
+
+/home/Joe/.config/xfce4/xfconf/xfce-perchannel-xml:
+total 0
+
+/home/Joe/Desktop:
+total 0
+lrwxrwxrwx. 1 Joe Joe 15 Feb  4 16:29 Joe -> /home/share/Joe
+
+/home/Joe/.local:
+total 4
+drwx------. 3 Joe Joe 4096 Feb  4 16:09 share
+
+/home/Joe/.local/share:
+total 4
+-rw-rw-r--. 1 Joe Joe    0 Feb  4 16:09 .converted-launchers
+drwx------. 2 Joe Joe 4096 Feb  4 16:09 keyrings
+
+/home/Joe/.local/share/keyrings:
+total 0
+
+/home/Joe/.mozilla:
+total 8
+drwxr-xr-x. 2 Joe Joe 4096 Jun  9  2014 extensions
+drwxr-xr-x. 2 Joe Joe 4096 Jun  9  2014 plugins
+
+/home/Joe/.mozilla/extensions:
+total 0
+
+/home/Joe/.mozilla/plugins:
+total 0
+
+/home/Joe/.ssh:
+total 0
+
+/home/Joe/.x2go:
+total 4
+drwxrwxr-x. 2 Joe Joe 4096 Feb  4 16:09 ssh
+
+/home/Joe/.x2go/ssh:
+total 0
+
+/home/Julie:
+total 56
+-rw-------. 1 Julie Julie  135 Feb  4 16:22 .bash_history
+-rw-r--r--. 1 Julie Julie   18 Mar  5  2015 .bash_logout
+-rw-r--r--. 1 Julie Julie  193 Mar  5  2015 .bash_profile
+-rw-r--r--. 1 Julie Julie  231 Mar  5  2015 .bashrc
+drwxrwxr-x. 5 Julie Julie 4096 Feb  4 16:09 .cache
+drwxrwxr-x. 8 Julie Julie 4096 Feb  4 16:09 .config
+drwxr-xr-x. 2 Julie Julie 4096 Feb  4 16:30 Desktop
+-rw-------. 1 Julie Julie  314 Feb  4 16:09 .ICEauthority
+drwx------. 3 Julie Julie 4096 Feb  4 16:09 .local
+drwxr-xr-x. 4 Julie Julie 4096 Sep  9 14:00 .mozilla
+drwx------. 2 Julie Julie 4096 Feb  4 16:09 .ssh
+-rw-------. 1 Julie Julie  816 Feb  4 16:22 .viminfo
+drwxrwxr-x. 3 Julie Julie 4096 Feb  4 16:10 .x2go
+-rw-------. 1 Julie Julie  118 Feb  4 16:09 .Xauthority
+
+/home/Julie/.cache:
+total 16
+drwxrwxr-x. 2 Julie Julie 4096 Feb  4 16:09 abrt
+drwxrwxr-x. 3 Julie Julie 4096 Feb  4 16:09 ibus
+drwx------. 2 Julie Julie 4096 Feb  4 16:09 imsettings
+-rw-rw-r--. 1 Julie Julie   57 Feb  4 16:09 xfce4-notifyd-theme.rc
+
+/home/Julie/.cache/abrt:
+total 4
+-rw-rw-r--. 1 Julie Julie 141 Feb  4 16:09 applet_dirlist
+
+/home/Julie/.cache/ibus:
+total 4
+drwxrwxr-x. 2 Julie Julie 4096 Feb  4 16:09 bus
+
+/home/Julie/.cache/ibus/bus:
+total 104
+-rw-r--r--. 1 Julie Julie 106488 Feb  4 16:09 registry
+
+/home/Julie/.cache/imsettings:
+total 8
+-rw-rw-r--. 1 Julie Julie 4566 Feb  4 16:09 log
+
+/home/Julie/.config:
+total 24
+drwxrwxr-x. 2 Julie Julie 4096 Feb  4 16:09 abrt
+drwxr-xr-x. 3 Julie Julie 4096 Feb  4 16:09 caja
+drwxrwxr-x. 2 Julie Julie 4096 Feb  4 16:09 dconf
+drwx------. 3 Julie Julie 4096 Feb  4 16:09 ibus
+drwxr-xr-x. 2 Julie Julie 4096 Feb  4 16:09 imsettings
+drwxrwxr-x. 3 Julie Julie 4096 Feb  4 16:09 xfce4
+
+/home/Julie/.config/abrt:
+total 0
+
+/home/Julie/.config/caja:
+total 8
+-rw-rw-r--. 1 Julie Julie  353 Feb  4 16:09 desktop-metadata
+drwxr-xr-x. 2 Julie Julie 4096 Feb  4 16:09 scripts
+
+/home/Julie/.config/caja/scripts:
+total 0
+
+/home/Julie/.config/dconf:
+total 8
+-rw-rw-r--. 1 Julie Julie 5142 Feb  4 16:09 user
+
+/home/Julie/.config/ibus:
+total 4
+drwx------. 2 Julie Julie 4096 Feb  4 16:09 bus
+
+/home/Julie/.config/ibus/bus:
+total 4
+-rw-rw-r--. 1 Julie Julie 169 Feb  4 16:09 452c80a64e604e3ab82261a0f8a88049-unix-56
+
+/home/Julie/.config/imsettings:
+total 0
+
+/home/Julie/.config/xfce4:
+total 4
+drwxrwxr-x. 3 Julie Julie 4096 Feb  4 16:09 xfconf
+
+/home/Julie/.config/xfce4/xfconf:
+total 4
+drwx------. 2 Julie Julie 4096 Feb  4 16:09 xfce-perchannel-xml
+
+/home/Julie/.config/xfce4/xfconf/xfce-perchannel-xml:
+total 0
+
+/home/Julie/Desktop:
+total 0
+lrwxrwxrwx. 1 Julie Julie 17 Feb  4 16:30 Julie -> /home/share/Julie
+
+/home/Julie/.local:
+total 4
+drwx------. 3 Julie Julie 4096 Feb  4 16:09 share
+
+/home/Julie/.local/share:
+total 4
+-rw-rw-r--. 1 Julie Julie    0 Feb  4 16:09 .converted-launchers
+drwx------. 2 Julie Julie 4096 Feb  4 16:09 keyrings
+
+/home/Julie/.local/share/keyrings:
+total 0
+
+/home/Julie/.mozilla:
+total 8
+drwxr-xr-x. 2 Julie Julie 4096 Jun  9  2014 extensions
+drwxr-xr-x. 2 Julie Julie 4096 Jun  9  2014 plugins
+
+/home/Julie/.mozilla/extensions:
+total 0
+
+/home/Julie/.mozilla/plugins:
+total 0
+
+/home/Julie/.ssh:
+total 0
+
+/home/Julie/.x2go:
+total 4
+drwxrwxr-x. 2 Julie Julie 4096 Feb  4 16:09 ssh
+
+/home/Julie/.x2go/ssh:
+total 0
+
+/home/marketing:
+total 0
+-rw-r--r--. 1 root root     0 Feb  4 17:18 file
+-rw-r--r--. 1 root BrianJoe 0 Feb  4 17:18 file2
+
+/home/public:
+total 0
+
+/home/share:
+total 16
+drwxrwx---. 2 root  All   4096 Feb  4 16:22 All
+drwxrwx---. 3 Brian Brian 4096 Feb  4 16:33 Brian
+drwxrwx---. 3 Joe   Joe   4096 Feb  4 16:35 Joe
+drwxrwx---. 3 Julie Julie 4096 Feb  4 16:35 Julie
+
+/home/share/All:
+total 4
+-rwxrwx---. 1 root All 77 Feb  4 16:22 Addressbook
+
+/home/share/Brian:
+total 4
+drwx------. 2 Brian Brian 4096 Feb  4 16:33 .backup
+
+/home/share/Brian/.backup:
+total 0
+
+/home/share/Joe:
+total 4
+drwx------. 2 Joe Joe 4096 Feb  4 16:35 .backup
+
+/home/share/Joe/.backup:
+total 0
+
+/home/share/Julie:
+total 4
+drwx------. 2 Julie Julie 4096 Feb  4 16:35 .backup
+
+/home/share/Julie/.backup:
+total 0

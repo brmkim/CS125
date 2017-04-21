@@ -1,0 +1,47 @@
+/home/share:
+total 24
+283517 drwxr-xr-x. 6 root  root  4096 Feb  4 16:23 .
+258566 drwxr-xr-x. 6 root  root  4096 Feb  4 16:15 ..
+283513 drwxrwx---. 2 root  All   4096 Feb  4 16:22 All
+283525 drwxrwx---. 3 Brian Brian 4096 Feb  4 16:33 Brian
+283518 drwxrwx---. 3 Joe   Joe   4096 Feb  4 16:35 Joe
+283515 drwxrwx---. 3 Julie Julie 4096 Feb  4 16:35 Julie
+
+/home/share/All:
+total 12
+283513 drwxrwx---. 2 root All  4096 Feb  4 16:22 .
+283517 drwxr-xr-x. 6 root root 4096 Feb  4 16:23 ..
+283521 -rwxrwx---. 1 root All    77 Feb  4 16:22 Addressbook
+
+/home/share/Brian:
+total 12
+283525 drwxrwx---. 3 Brian Brian 4096 Feb  4 16:33 .
+283517 drwxr-xr-x. 6 root  root  4096 Feb  4 16:23 ..
+283607 drwx------. 2 Brian Brian 4096 Feb  4 16:33 .backup
+
+/home/share/Brian/.backup:
+total 8
+283607 drwx------. 2 Brian Brian 4096 Feb  4 16:33 .
+283525 drwxrwx---. 3 Brian Brian 4096 Feb  4 16:33 ..
+
+/home/share/Joe:
+total 12
+283518 drwxrwx---. 3 Joe  Joe  4096 Feb  4 16:35 .
+283517 drwxr-xr-x. 6 root root 4096 Feb  4 16:23 ..
+283608 drwx------. 2 Joe  Joe  4096 Feb  4 16:35 .backup
+
+/home/share/Joe/.backup:
+total 8
+283608 drwx------. 2 Joe Joe 4096 Feb  4 16:35 .
+283518 drwxrwx---. 3 Joe Joe 4096 Feb  4 16:35 ..
+
+/home/share/Julie:
+total 12
+283515 drwxrwx---. 3 Julie Julie 4096 Feb  4 16:35 .
+283517 drwxr-xr-x. 6 root  root  4096 Feb  4 16:23 ..
+283609 drwx------. 2 Julie Julie 4096 Feb  4 16:35 .backup
+
+/home/share/Julie/.backup:
+total 8
+283609 drwx------. 2 Julie Julie 4096 Feb  4 16:35 .
+283515 drwxrwx---. 3 Julie Julie 4096 Feb  4 16:35 ..
